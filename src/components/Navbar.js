@@ -58,8 +58,8 @@ const Navbar = ({ className }) => {
               alt="SMK Ilhami Logo"
               className="w-8 h-8 sm:w-10 sm:h-10"
               layout="constrained"
-              width={40}
-              height={40}
+              width={45}
+              height={45}
               loading="eager"
               backgroundColor="transparent"
               placeholder="blurred"
