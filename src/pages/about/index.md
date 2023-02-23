@@ -1,36 +1,33 @@
 ---
 templateKey: about-page
-title: About
-heading: About us
-subheading: Our values, mission and culture
+title: Tentang Kami
+heading: Tentang SMK Ilhami Kemiri Tangerang
+subheading: Visi Misi, Tim Guru, dan Program atau Jurusan
 team:
-  - name: Courtney Henry
-    image: /img/joanna-nix-walkup-p7zgmc33s0u-unsplash.jpg
-    title: Founder / CEO
-  - name: Michael Foster
-    title: Architect
-    image: /img/rui-silvestre-hamjpesmede-unsplash.jpg
-  - name: Leslie Alexander
-    title: Landscape Gardener
-    image: /img/brooke-cagle-norsyxmhgpi-unsplash-1-.jpg
-  - name: Dries Vincent
-    title: Manager, Business Relations
-    image: /img/bruce-mars-8yg31xn4dsw-unsplash-1-.jpg
+  - name: "H. Jajang "
+    image: /img/foto-kepsek-ilhami.jpg
+    title: Kepala Sekolah
 ---
-### Reconnect people with nature
+### SMK Ilhami Kemiri Bisa Mandiri
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nulla dui, placerat nec suscipit nec, blandit nec felis. Nam imperdiet mattis sem id cursus. Nullam ipsum dui, elementum in dignissim et, molestie vel erat. Integer gravida sodales euismod. Nam hendrerit posuere leo, a mattis lorem gravida a. Quisque aliquet nisl quam, quis efficitur magna tempor vitae. Phasellus nec hendrerit metus. Vivamus quis massa fringilla, dapibus ligula a, porttitor libero. Nulla hendrerit non augue ut consectetur. Nulla vestibulum bibendum iaculis. Fusce vitae nunc eget metus suscipit facilisis ut non nulla. Vestibulum ac consectetur mi.
+SMK Ilhami Kemiri Tangerang merupakan salah satu sekolah menengah kejuruan (SMK) yang berada di wilayah Tangerang, Provinsi Banten, Indonesia. Sekolah ini menyediakan berbagai program keahlian atau jurusan, seperti Teknik Komputer dan Jaringan (TKJ), Otomatisasi Komputer dan Perkantoran (OTKP), Multimedia, dan Teknik Kendaraan Ringan (TKR).
 
-![Rooftop gardens](/img/chuttersnap-nxjyzlbnyuq-unsplash.jpg "Rooftop gardens")
+Selain itu, SMK Ilhami Kemiri Tangerang juga menawarkan berbagai fasilitas dan kegiatan ekstrakurikuler yang mendukung pengembangan potensi siswa, seperti laboratorium komputer, laboratorium bahasa, laboratorium multimedia, dan kegiatan olahraga.
 
-### Improve air quality and micro-climate
+![Gedung dan Siswa SMK Ilhami](/img/ilhami-gedung-siswa.jpg "Gedung Sekolah, Lapangan dan Siswa SMK Ilhami")
 
-Mauris pharetra sollicitudin sodales. Aenean imperdiet, nisi quis porttitor aliquam, nunc dolor imperdiet lectus, accumsan molestie nisi diam ut augue. Curabitur a eros ac metus vestibulum accumsan. Maecenas facilisis sapien enim, sit amet vulputate velit bibendum nec. Donec consequat sit amet odio sed elementum. Suspendisse maximus eros vel eleifend scelerisque. Vivamus euismod ante ut suscipit elementum. Phasellus velit diam, varius vel pellentesque id, mollis ut quam. Etiam a nulla in justo feugiat luctus id ut mauris. Sed porta massa a sollicitudin dignissim. Donec gravida est quis justo maximus pretium.
+### Jurusun Teknik Komputer Jaringan (TKJ)
 
-### Reduce carbon footprint
+Jurusan Teknik Komputer dan Jaringan (TKJ) adalah salah satu program keahlian yang ada di sekolah menengah kejuruan (SMK) yang mempelajari tentang teknologi informasi dan komunikasi terkait dengan penggunaan dan pemeliharaan perangkat keras dan perangkat lunak, serta jaringan komputer.
 
-Duis vitae rhoncus lorem, aliquam hendrerit diam. Integer semper metus a erat dictum, ut tristique augue auctor. Integer sodales velit lacus, sed pharetra ante interdum efficitur. Vestibulum dictum sapien lacus, nec semper odio egestas cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec et odio mi. Aliquam vel efficitur enim, non consequat turpis.
+Siswa yang mengambil program TKJ akan mempelajari materi seperti pemrograman komputer, pengoperasian sistem komputer, desain dan pengembangan website, administrasi jaringan komputer, keamanan jaringan, dan pengujian perangkat lunak. Selain itu, siswa juga akan mendapatkan praktikum untuk mengasah keterampilan dan pengalaman dalam bidang teknologi informasi dan komunikasi.
 
-### Support local businesses and communities
+Setelah lulus dari program TKJ, siswa akan memiliki keterampilan yang dibutuhkan untuk bekerja di berbagai industri yang berhubungan dengan teknologi informasi dan komunikasi, seperti perusahaan teknologi, penyedia layanan internet, dan perusahaan telekomunikasi. Selain itu, siswa juga dapat melanjutkan pendidikan ke jenjang yang lebih tinggi, seperti program sarjana di bidang teknik informatika atau teknologi informasi.
 
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Jurusan Otomatisasi Komputer dan Perkantoran (OTKP)
+
+Program keahlian (OTKP) atau Administrasi Perkantoran atau Manajemen Bisnis bertujuan untuk membekali siswa dengan keterampilan administratif, manajemen, dan komunikasi yang diperlukan untuk bekerja di lingkungan kantor. Beberapa materi yang dipelajari meliputi manajemen kantor, administrasi bisnis, keuangan, pengelolaan sumber daya manusia, komunikasi bisnis, serta penggunaan perangkat lunak perkantoran seperti aplikasi pengolah kata, spreadsheet, dan presentasi.
+
+Selain itu, program keahlian Administrasi Perkantoran atau Manajemen Bisnis juga memberikan pelatihan untuk menggunakan sistem otomatisasi kantor dan teknologi terkait lainnya, seperti software ERP (Enterprise Resource Planning), software HRIS (Human Resource Information System), dan aplikasi manajemen proyek.
+
+Setelah lulus dari program keahlian Administrasi Perkantoran atau Manajemen Bisnis, siswa dapat bekerja di berbagai jenis organisasi dan perusahaan, seperti kantor pemerintah, perusahaan swasta, bank, rumah sakit, dan sebagainya. Beberapa posisi pekerjaan yang mungkin diisi antara lain administrator kantor, asisten manajer, staf administrasi, koordinator proyek, atau staf sumber daya manusia.
