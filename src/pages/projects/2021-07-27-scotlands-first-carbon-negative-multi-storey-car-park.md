@@ -1,15 +1,19 @@
 ---
 templateKey: project-page
-title: City's first carbon-negative multi-storey car park
-date: 2021-07-22T10:38:30.300Z
+title: "Acara Syukuran SMK Ilhami "
+date: 2023-02-23T14:04:50.963Z
 featured: true
 featuredimage:
-  image: /img/danist-dqxiw7ncb9q-unsplash.jpg
-  alt: multi-storey car park with green plants
-location: Glasgow, Scotland
+  image: /img/acara-tumpengan-ilhami.jpg
+  alt: syukuran SMK Ilhami
+location: Kemiri, Tangerang
 ---
-Photo by [Danist Soh](https://unsplash.com/@danist07?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/kDVcVtpJNeA/urban-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [Tim Infokom](https://www.facebook.com/photo/?fbid=158105705574501&set=pob.100041252177964)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris accumsan tellus purus, id iaculis metus congue ac. Curabitur a urna ac nisl fermentum tincidunt. Curabitur enim urna, dictum ut mattis et, scelerisque sit amet enim. Duis vehicula nibh ut rutrum imperdiet. Curabitur eu tortor vitae nisl vulputate semper. Curabitur rutrum molestie mi, quis porttitor mi consequat ac. Nulla semper fermentum elit, sit amet ultricies nisl interdum a. Suspendisse mattis sapien in neque ornare lobortis. Ut ullamcorper velit quis dolor bibendum, id finibus ipsum varius. Maecenas quis blandit mi, at feugiat nibh. Nullam a neque a massa scelerisque eleifend vitae nec est. Vestibulum lectus eros, ullamcorper id tempor ac, scelerisque sed ex. Aenean semper purus quis neque facilisis, ut vestibulum elit consequat. Pellentesque vel neque iaculis, rutrum dolor in, bibendum metus.
+Syukuran SMK dengan tumpeng adalah salah satu acara yang biasanya dilakukan oleh siswa, guru, dan karyawan SMK untuk merayakan momen penting seperti Hari Ulang Tahun (HUT) SMK, kelulusan siswa, atau pencapaian prestasi tertentu. Tumpeng sendiri adalah hidangan nasi kuning yang disajikan dalam wadah kerucut yang dihiasi dengan aneka lauk pauk dan dianggap sebagai simbol syukur dan keberuntungan.
 
-Proin nec metus congue purus tincidunt consequat ac vel metus. Aenean porttitor lorem ut neque maximus mattis. Nunc in rutrum nisl. Integer blandit, lectus ac accumsan efficitur, libero est semper felis, non gravida orci erat aliquet lectus. Aenean quis leo eget odio vulputate interdum. Aenean imperdiet auctor enim vel consectetur. Proin vel nisi ligula. Maecenas commodo dictum dui quis accumsan. Morbi commodo justo sed consectetur luctus. Mauris elementum eros ligula, quis dignissim nisi venenatis quis. Vestibulum eleifend nunc magna, sed luctus tellus commodo vel.
+Dalam acara syukuran SMK dengan tumpeng, biasanya dipimpin oleh kepala sekolah atau perwakilan dari pihak sekolah. Acara dimulai dengan pembacaan doa bersama, dilanjutkan dengan prosesi pemotongan tumpeng oleh kepala sekolah atau perwakilan. Potongan pertama tumpeng biasanya diberikan kepada tamu kehormatan, seperti tokoh masyarakat, anggota dewan, atau sponsor.
+
+Setelah itu, semua peserta acara akan menikmati hidangan tumpeng dan lauk pauk yang disediakan. Selama makan bersama, biasanya juga dilakukan acara hiburan, seperti penampilan seni budaya atau sambutan dari tamu kehormatan.
+
+Acara syukuran SMK dengan tumpeng memiliki makna yang sangat penting, yaitu sebagai bentuk rasa syukur dan kebersamaan antara siswa, guru, karyawan, dan pihak-pihak terkait atas segala pencapaian dan keberhasilan yang telah diraih. Selain itu, acara ini juga menjadi ajang untuk mempererat silaturahmi dan menjalin kerjasama yang baik di antara semua pihak yang terlibat.
