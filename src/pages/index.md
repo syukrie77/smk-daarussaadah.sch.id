@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Connecting People with Nature
+title: Official Website SMK Ilhami
 image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
 heading: SMK Ilhami Kemiri Tangerang
 subheading: Berprestasi, Mandiri dan Berpesantren
