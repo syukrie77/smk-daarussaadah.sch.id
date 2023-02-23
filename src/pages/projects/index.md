@@ -1,6 +1,7 @@
 ---
 templateKey: projects-page
-title: Projects
-heading: Our Projects
-subheading: Transforming urban spaces all over the world
+title: Aktifitas dan Kegiatan
+heading: "Kegiatan Sekolah "
+subheading: SMK Ilhami aktif dalam kegiatan sekolah untuk memberikan pengalaman
+  kepada siswa/i
 ---
