@@ -26,8 +26,8 @@ const Footer = () => {
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis, nisi! Id.
+                Konsep belajar SMK Ilhami Kemiri Praktis dan Berpesantren
+                Menjadikan Siswa/i cepat memahami dalam setiap pembelajaran Ilmu, Teknologi dan Islam.
               </p>
             </div>
           </div>
@@ -131,7 +131,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © Brand 2020 - All rights reserved
+            © SMK Ilhami Kemiri 2023 - All rights reserved
           </p>
         </div>
       </div>
