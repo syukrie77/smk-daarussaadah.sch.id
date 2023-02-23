@@ -10,6 +10,12 @@ location: Kemiri, Tangerang
 ---
 Photo by [Tim IT SMK Ilhami](https://www.facebook.com/photo/?fbid=5185982671506741&set=pcb.5185982824840059)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris accumsan tellus purus, id iaculis metus congue ac. Curabitur a urna ac nisl fermentum tincidunt. Curabitur enim urna, dictum ut mattis et, scelerisque sit amet enim. Duis vehicula nibh ut rutrum imperdiet. Curabitur eu tortor vitae nisl vulputate semper. Curabitur rutrum molestie mi, quis porttitor mi consequat ac. Nulla semper fermentum elit, sit amet ultricies nisl interdum a. Suspendisse mattis sapien in neque ornare lobortis. Ut ullamcorper velit quis dolor bibendum, id finibus ipsum varius. Maecenas quis blandit mi, at feugiat nibh. Nullam a neque a massa scelerisque eleifend vitae nec est. Vestibulum lectus eros, ullamcorper id tempor ac, scelerisque sed ex. Aenean semper purus quis neque facilisis, ut vestibulum elit consequat. Pellentesque vel neque iaculis, rutrum dolor in, bibendum metus.
+Kegiatan upacara di SMK adalah salah satu kegiatan yang rutin dilakukan setiap bulannya sebagai bentuk penghormatan kepada bendera dan negara. Upacara ini diadakan pada hari Senin pertama setiap bulannya dan melibatkan semua siswa, guru, serta staf sekolah.
 
-Proin nec metus congue purus tincidunt consequat ac vel metus. Aenean porttitor lorem ut neque maximus mattis. Nunc in rutrum nisl. Integer blandit, lectus ac accumsan efficitur, libero est semper felis, non gravida orci erat aliquet lectus. Aenean quis leo eget odio vulputate interdum. Aenean imperdiet auctor enim vel consectetur. Proin vel nisi ligula. Maecenas commodo dictum dui quis accumsan. Morbi commodo justo sed consectetur luctus. Mauris elementum eros ligula, quis dignissim nisi venenatis quis. Vestibulum eleifend nunc magna, sed luctus tellus commodo vel.
+Pada upacara tersebut, seluruh peserta upacara akan berkumpul di lapangan atau aula sekolah. Kemudian, upacara dimulai dengan pengibaran bendera sambil dinyanyikan lagu kebangsaan Indonesia, yaitu "Indonesia Raya".
+
+Setelah itu, dilanjutkan dengan penghormatan kepada bendera dengan cara berdiri tegak dan membentangkan tangan kanan ke arah bendera. Siswa juga diharapkan untuk memperhatikan pidato yang disampaikan oleh perwakilan siswa atau guru, yang biasanya berisi pesan-pesan tentang kecintaan pada tanah air dan kebangsaan.
+
+Selain itu, upacara di SMK juga biasanya diisi dengan berbagai kegiatan, seperti pemutaran video tentang sejarah kemerdekaan Indonesia, pembacaan doa, dan penghargaan kepada siswa yang berprestasi.
+
+Upacara di SMK merupakan salah satu cara untuk memupuk rasa kebangsaan dan cinta tanah air di kalangan siswa, serta mengenalkan nilai-nilai kejuangan dan patriotisme kepada generasi muda.
