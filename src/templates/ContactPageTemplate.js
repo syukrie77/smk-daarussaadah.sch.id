@@ -25,7 +25,7 @@ function ContactPageTemplate({
                   htmlFor="first-name"
                   className="block text-sm font-medium text-gray-700"
                 >
-                  First name
+                  Nama Depan
                 </label>
                 <input
                   type="text"
@@ -41,7 +41,7 @@ function ContactPageTemplate({
                   htmlFor="last-name"
                   className="block text-sm font-medium text-gray-700"
                 >
-                  Last name
+                  Nama Belakang
                 </label>
                 <input
                   type="text"
@@ -74,7 +74,7 @@ function ContactPageTemplate({
                     htmlFor="phone"
                     className="block text-sm font-medium text-gray-700"
                   >
-                    Phone
+                    No.Telp
                   </label>
                   <span className="text-gray-500 text-sm">Optional</span>
                 </div>
@@ -93,10 +93,10 @@ function ContactPageTemplate({
                     htmlFor="message"
                     className="block text-sm font-medium text-gray-700"
                   >
-                    Message
+                    Pesan
                   </label>
                   <span className="text-gray-500 text-sm">
-                    Max. 500 characters
+                    Maksimal 500 karakter
                   </span>
                 </div>
                 <div className="mt-1">
@@ -117,7 +117,7 @@ function ContactPageTemplate({
               type="submit"
               className="inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-green-900 bg-yellow-300 hover:bg-lime-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500"
             >
-              Submit
+              Kirim
             </button>
           </div>
         </form>
