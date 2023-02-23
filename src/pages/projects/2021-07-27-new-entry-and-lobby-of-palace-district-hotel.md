@@ -8,6 +8,8 @@ featuredimage:
   image: /img/kepsek-ilhami-upacara.jpg
 location: Kemiri, Tangerang
 ---
+Photo by [Tim Infokom SMK Ilhami](https://www.facebook.com/photo?fbid=5185981794840162&set=pcb.5185982824840059)
+
 Pengibaran bendera di SMK merupakan kegiatan yang dilakukan dalam upacara bendera bulanan atau pada hari-hari tertentu yang berkaitan dengan peringatan hari besar nasional. Kegiatan ini dilakukan sebagai bentuk penghormatan kepada bendera sebagai simbol kebesaran negara dan sebagai wujud kecintaan kepada tanah air.
 
 Pada pengibaran bendera di SMK, biasanya ada beberapa tahapan yang dilakukan, antara lain:
