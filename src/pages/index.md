@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Official Website SMK Ilhami
-image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
+image: /img/ilhami-lapangan.jpg
 heading: SMK Ilhami Kemiri Tangerang
 subheading: Berprestasi, Mandiri dan Berpesantren
 about:
@@ -10,8 +10,8 @@ about:
     berkomitmen mengambil tanggung jawab dalam mencetak SDM yang mumpuni dapat
     bersaing di dunia industri dan bisnis.
   image:
-    image: /img/leon-tho1_oukbg0-unsplash.jpg
-    alt: people working in agency
+    image: /img/ilhami-berbaris.jpg
+    alt: Para siswa/i SMK Ilhami berbaris
   button:
     url: /about
     label: Find out more
