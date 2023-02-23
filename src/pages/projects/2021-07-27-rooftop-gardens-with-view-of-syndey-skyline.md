@@ -1,15 +1,24 @@
 ---
 templateKey: project-page
-title: Rooftop gardens with view of Syndey skyline
-date: 2021-07-21T10:14:24.359Z
+title: Dewan Guru SMK Ilhami Kemiri Tangerang
+date: 2023-02-23T13:45:41.577Z
 featured: true
 featuredimage:
-  image: /img/chuttersnap-nxjyzlbnyuq-unsplash.jpg
-  alt: rooftop garden
-location: Sydney, Australia
+  image: /img/dewan-guru-ilhami.jpg
+  alt: dewan guru smk ilhami
+location: Kemiri, Tangerang
 ---
-Photo by [CHUTTERSNAP](https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/kDVcVtpJNeA/urban-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [Tim Infokom](https://www.facebook.com/photo/?fbid=5185982451506763&set=pcb.5185982824840059)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris accumsan tellus purus, id iaculis metus congue ac. Curabitur a urna ac nisl fermentum tincidunt. Curabitur enim urna, dictum ut mattis et, scelerisque sit amet enim. Duis vehicula nibh ut rutrum imperdiet. Curabitur eu tortor vitae nisl vulputate semper. Curabitur rutrum molestie mi, quis porttitor mi consequat ac. Nulla semper fermentum elit, sit amet ultricies nisl interdum a. Suspendisse mattis sapien in neque ornare lobortis. Ut ullamcorper velit quis dolor bibendum, id finibus ipsum varius. Maecenas quis blandit mi, at feugiat nibh. Nullam a neque a massa scelerisque eleifend vitae nec est. Vestibulum lectus eros, ullamcorper id tempor ac, scelerisque sed ex. Aenean semper purus quis neque facilisis, ut vestibulum elit consequat. Pellentesque vel neque iaculis, rutrum dolor in, bibendum metus.
+Dewan Guru SMK adalah sebuah organisasi atau kelompok yang terdiri dari para guru yang mengajar di Sekolah Menengah Kejuruan (SMK). Tujuan utama dari dewan guru SMK adalah untuk memperbaiki mutu dan kualitas pendidikan di SMK serta meningkatkan efektivitas dan efisiensi pembelajaran di kelas.
 
-Proin nec metus congue purus tincidunt consequat ac vel metus. Aenean porttitor lorem ut neque maximus mattis. Nunc in rutrum nisl. Integer blandit, lectus ac accumsan efficitur, libero est semper felis, non gravida orci erat aliquet lectus. Aenean quis leo eget odio vulputate interdum. Aenean imperdiet auctor enim vel consectetur. Proin vel nisi ligula. Maecenas commodo dictum dui quis accumsan. Morbi commodo justo sed consectetur luctus. Mauris elementum eros ligula, quis dignissim nisi venenatis quis. Vestibulum eleifend nunc magna, sed luctus tellus commodo vel.
+Beberapa tugas dan fungsi dari dewan guru SMK antara lain:
+
+1. Membahas dan merencanakan program pembelajaran di SMK.
+2. Mengevaluasi program pembelajaran yang sudah berjalan dan memberikan saran atau rekomendasi untuk perbaikan.
+3. Menetapkan standar penilaian dan evaluasi untuk siswa SMK.
+4. Melakukan pengembangan kurikulum dan materi pembelajaran.
+5. Memberikan dukungan dan bantuan kepada para siswa yang mengalami kesulitan dalam belajar.
+6. Melakukan koordinasi dengan pihak-pihak terkait, seperti orang tua siswa, staf administrasi, dan pihak-pihak terkait lainnya.
+
+Dalam menjalankan tugas dan fungsinya, dewan guru SMK juga berperan sebagai mediator antara siswa, orang tua siswa, dan pihak sekolah untuk menciptakan lingkungan pembelajaran yang kondusif dan efektif.
