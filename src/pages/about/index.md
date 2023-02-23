@@ -4,9 +4,9 @@ title: Tentang Kami
 heading: Tentang SMK Ilhami Kemiri Tangerang
 subheading: Visi Misi, Tim Guru, dan Program atau Jurusan
 team:
-  - name: "H. Jajang "
-    image: /img/foto-kepsek-ilhami.jpg
-    title: Kepala Sekolah
+  - name: Dewan Guru
+    image: /img/guru-ilhami.jpg
+    title: SMK Ilhami Kemiri Tangerang
 ---
 ### SMK Ilhami Kemiri Bisa Mandiri
 
