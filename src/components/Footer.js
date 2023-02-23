@@ -20,8 +20,8 @@ const Footer = () => {
                   placeholder="blurred"
                 />
                 <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">Urban</span>
-                  <span className="text-green-700">Garden</span>
+                  <span className="text-gray-800 font-semibold">SMK</span>
+                  <span className="text-green-700">Ilhami</span>
                 </div>
               </Link>
 

@@ -53,19 +53,19 @@ const Navbar = ({ className }) => {
         <div className="flex items-center justify-between py-2">
           <Link className="flex items-center gap-1" to="/">
             <StaticImage
-              src="../img/urbangarden-icon.png"
-              alt="UrbanGarden icon"
+              src="../img/logo-ilhami.png"
+              alt="SMK Ilhami Logo"
               className="w-8 h-8 sm:w-10 sm:h-10"
               layout="constrained"
-              width={40}
-              height={40}
+              width={45}
+              height={45}
               loading="eager"
               backgroundColor="transparent"
               placeholder="blurred"
             />
             <div className="text-xl font-bold tracking-wide lg:text-2xl">
-              <span className="text-gray-800 font-semibold">Urban</span>
-              <span className="text-green-700">Garden</span>
+              <span className="text-gray-800 font-semibold">SMK</span>
+              <span className="text-green-700">Ilhami</span>
             </div>
           </Link>
 
