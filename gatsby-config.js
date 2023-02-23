@@ -3,9 +3,9 @@ const siteUrl =
 
 module.exports = {
   siteMetadata: {
-    title: "UrbanGarden",
+    title: "SMK Ilhami",
     description:
-      "Transforming and enriching our urban environments with green living spaces",
+      "Official Website SMK Ilhami Kemiri Tangerang",
     siteUrl: "https://objective-thompson-fe2703.netlify.app",
   },
   plugins: [
@@ -72,13 +72,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `UrbanGarden`,
-        short_name: `UrbanGarden`,
+        name: `SMKIlhami`,
+        short_name: `SMKIlhami`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#047857`,
         display: `standalone`,
-        icon: `src/img/urbangarden-icon.png`,
+        icon: `src/img/logo-ilhami.png`,
       },
     },
     "gatsby-transformer-remark-frontmatter",
