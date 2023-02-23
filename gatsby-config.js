@@ -1,12 +1,12 @@
 const siteUrl =
-  process.env.URL || `https://objective-thompson-fe2703.netlify.app`
+  process.env.URL || `https://imaginative-paletas-c84ebf.netlify.app/`
 
 module.exports = {
   siteMetadata: {
     title: "SMK Ilhami",
     description:
       "Official Website SMK Ilhami Kemiri Tangerang",
-    siteUrl: "https://objective-thompson-fe2703.netlify.app",
+    siteUrl: "https://imaginative-paletas-c84ebf.netlify.app/",
   },
   plugins: [
     {
