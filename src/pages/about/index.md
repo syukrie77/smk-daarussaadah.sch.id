@@ -7,6 +7,9 @@ team:
   - name: Dewan Guru
     image: /img/guru-ilhami.jpg
     title: SMK Ilhami Kemiri Tangerang
+  - name: Staf dan karyawan
+    title: SMK Ilhami Kemiri Tangerang
+    image: /img/ilhami-workshop.jpg
 ---
 ### SMK Ilhami Kemiri Bisa Mandiri
 
