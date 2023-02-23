@@ -1,15 +1,21 @@
 ---
 templateKey: project-page
-title: Communal pool and gardens
-date: 2021-07-27T16:02:23.485Z
-featured: false
+title: Workshop Entrepreneur Bagi Siswa/i SMK Ilhami
+date: 2023-02-23T13:58:37.658Z
+featured: true
 featuredimage:
-  image: /img/paul-szewczyk-ni4ac1katrc-unsplash.jpg
-  alt: large garden with pool
-location: Prachuap Khiri Khan, Thailand
+  image: /img/workshop-entreprenuer.jpg
+  alt: Workshop Entrepreneur SMK Ilhami
+location: Kemiri, Tangerang
 ---
-Photo by [Paul Szewczyk](https://unsplash.com/@allphotobangkok?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/kDVcVtpJNeA/urban-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [Tim Infokom](https://www.facebook.com/photo?fbid=148569606528111&set=pcb.148571963194542)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris accumsan tellus purus, id iaculis metus congue ac. Curabitur a urna ac nisl fermentum tincidunt. Curabitur enim urna, dictum ut mattis et, scelerisque sit amet enim. Duis vehicula nibh ut rutrum imperdiet. Curabitur eu tortor vitae nisl vulputate semper. Curabitur rutrum molestie mi, quis porttitor mi consequat ac. Nulla semper fermentum elit, sit amet ultricies nisl interdum a. Suspendisse mattis sapien in neque ornare lobortis. Ut ullamcorper velit quis dolor bibendum, id finibus ipsum varius. Maecenas quis blandit mi, at feugiat nibh. Nullam a neque a massa scelerisque eleifend vitae nec est. Vestibulum lectus eros, ullamcorper id tempor ac, scelerisque sed ex. Aenean semper purus quis neque facilisis, ut vestibulum elit consequat. Pellentesque vel neque iaculis, rutrum dolor in, bibendum metus.
+Workshop entrepreneur bagi siswa SMK adalah kegiatan pelatihan yang bertujuan untuk membekali siswa dengan pengetahuan dan keterampilan yang diperlukan untuk memulai dan mengembangkan bisnis mereka sendiri di masa depan. Dalam workshop ini, siswa akan mempelajari konsep-konsep dasar kewirausahaan, strategi bisnis, serta teknik dan alat-alat yang diperlukan untuk memulai dan mengembangkan bisnis.
 
-Proin nec metus congue purus tincidunt consequat ac vel metus. Aenean porttitor lorem ut neque maximus mattis. Nunc in rutrum nisl. Integer blandit, lectus ac accumsan efficitur, libero est semper felis, non gravida orci erat aliquet lectus. Aenean quis leo eget odio vulputate interdum. Aenean imperdiet auctor enim vel consectetur. Proin vel nisi ligula. Maecenas commodo dictum dui quis accumsan. Morbi commodo justo sed consectetur luctus. Mauris elementum eros ligula, quis dignissim nisi venenatis quis. Vestibulum eleifend nunc magna, sed luctus tellus commodo vel.
+Beberapa topik yang dapat dipelajari dalam workshop entrepreneur bagi siswa SMK antara lain:
+
+1. Konsep dasar kewirausahaan, seperti definisi kewirausahaan, ciri-ciri seorang wirausaha, dan jenis-jenis wirausaha.
+2. Strategi bisnis, yaitu merencanakan dan mengembangkan bisnis yang efektif dan efisien, membuat rencana bisnis, melakukan riset pasar, serta meningkatkan keberhasilan bisnis.
+3. Teknik dan alat-alat bisnis, seperti pemasaran, branding, manajemen keuangan, manajemen sumber daya manusia, dan lain-lain.
+
+Dengan mengikuti workshop entrepreneur bagi siswa SMK, siswa akan memiliki pengetahuan dan keterampilan yang dapat membantu mereka dalam memulai dan mengembangkan bisnis mereka sendiri di masa depan. Selain itu, mereka juga dapat menggunakan pengetahuan dan keterampilan yang diperoleh dari workshop untuk mengembangkan program dan materi pembelajaran yang berkaitan dengan kewirausahaan untuk para siswa mereka.
