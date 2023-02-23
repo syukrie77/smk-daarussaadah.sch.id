@@ -36,25 +36,25 @@ const Footer = () => {
             <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4">
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  About
+                  Tentang
                 </h3>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Company
+                  SMK Ilhami
                 </Link>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Community
+                  Komunitas
                 </Link>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Careers
+                  Karir
                 </Link>
               </div>
 
@@ -66,13 +66,13 @@ const Footer = () => {
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Tec
+                  Artikel
                 </Link>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Music
+                  Sosmed
                 </Link>
                 <Link
                   to="/"
@@ -84,43 +84,43 @@ const Footer = () => {
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  Products
+                  Kerjasama
                 </h3>
                 <a
-                  href="https://www.gatsbyjs.com/"
+                  href="https://www.aretanet.com/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Gatsby
+                  PT. Aretanet Indonesia
                 </a>
                 <a
-                  href="https://www.netlifycms.org/"
+                  href="https://www.aretacollege.com/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Netlify CMS
+                  Areta Informatics College
                 </a>
                 <a
-                  href="https://tailwindcss.com/"
+                  href="https://facebook.com/smk-ilhami-kemiri"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Tailwind CSS
+                  Fan Page
                 </a>
               </div>
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  Contact
+                  Kontak
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  +1 526 654 8965
+                  +62 85300000
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  example@email.com
+                  info@smkilhami.sch.id
                 </span>
               </div>
             </div>

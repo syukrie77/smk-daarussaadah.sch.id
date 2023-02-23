@@ -58,7 +58,7 @@ const IndexPageTemplate = ({
         <div className="flex justify-between items-baseline">
           <SectionHeading>Semua Kegiatan SMK Ilhami Kemiri Tangerang</SectionHeading>
           <Link className="text-green-700 underline hover:text-green-800" to="/projects">
-            View all
+            Tampilkan Semua
           </Link>
         </div>
         <div className="mt-8">

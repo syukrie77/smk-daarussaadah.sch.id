@@ -14,5 +14,4 @@ about:
     alt: Para siswa/i SMK Ilhami berbaris
   button:
     url: /about
-    label: Find out more
----
+    label: Mengetahui lebih lanjut

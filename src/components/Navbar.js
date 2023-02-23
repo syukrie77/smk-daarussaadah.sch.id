@@ -101,7 +101,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Home
+              Depan
             </ExactNavLink>
             <PartialNavLink
               to="/projects"
@@ -109,7 +109,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Projects
+              Kegiatan
             </PartialNavLink>
             <ExactNavLink
               to="/about"
@@ -117,7 +117,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              About
+              Tentang Kami
             </ExactNavLink>
             <ExactNavLink
               to="/contact"
@@ -125,7 +125,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Contact
+              Kontak
             </ExactNavLink>
             <a
               href="https://www.aretanet.com"
