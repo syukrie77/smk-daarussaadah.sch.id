@@ -1,12 +1,12 @@
 ---
 templateKey: contact-page
-title: Contact
-heading: Contact us
-subheading: Visit us in our offices or simply drop us a message
+title: Kontak
+heading: Kontak Kami
+subheading: Tinggalkan pesan Anda pada form di bawah ini.
 contactform:
-  heading: Let's work together!
-  description: We'd love to hear from you. Send us a message using the form below,
-    or email us.
+  heading: Kami siap membantu Anda
+  description: " Kirimkan pesan melalui formulir di bawah ini, atau kirimkan email
+    kepada kami."
   image: /img/copernico-p_kicqcom4s-unsplash-1-.jpg
 office:
   tagline: Our Office
