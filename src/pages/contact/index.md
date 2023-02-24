@@ -7,10 +7,10 @@ contactform:
   heading: Kami siap membantu Anda
   description: " Kirimkan pesan melalui formulir di bawah ini, atau kirimkan email
     kepada kami."
-  image: /img/copernico-p_kicqcom4s-unsplash-1-.jpg
+  image: /img/ilhami-lapangan.jpg
 office:
-  tagline: Our Office
-  location: London Spitalfield
+  tagline: Lapangan SMK ILHAMI
+  location: Kemiri Tangerang
   address: |-
     UrbanGarden\
     143 Fake Street\
@@ -19,5 +19,5 @@ office:
     Email: fake@urbangarden.com\
     Phone: 01234 567 891\
     Monday to Friday 9-6pm GMT.
-  image: /img/klaudia-piaskowska-g3lrnieizq4-unsplash.jpg
+  image: /img/ilhami-gedung-siswa.jpg
 ---
