@@ -12,12 +12,15 @@ office:
   tagline: Lapangan SMK ILHAMI
   location: Kemiri Tangerang
   address: |-
-    UrbanGarden\
-    143 Fake Street\
-    London
+    SMK Ilhami
+
+    Kemiri\
+    Tangerang
   phone: |-
-    Email: fake@urbangarden.com\
-    Phone: 01234 567 891\
-    Monday to Friday 9-6pm GMT.
+    Email: info@smkilhami.sch.id
+
+    Phone: 0853000000
+
+    Senin s.d Sabtu 08.00 -14.00 Wib.
   image: /img/ilhami-gedung-siswa.jpg
 ---
