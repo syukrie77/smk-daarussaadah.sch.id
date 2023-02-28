@@ -11,11 +11,24 @@ team:
     title: SMK Ilhami Kemiri Tangerang
     image: /img/ilhami-workshop.jpg
 ---
-### SMK Ilhami Kemiri Bisa Mandiri
+### **SMK Ilhami Kemiri Bisa Mandiri**
 
-SMK Ilhami Kemiri Tangerang merupakan salah satu sekolah menengah kejuruan (SMK) yang berada di wilayah Tangerang, Provinsi Banten, Indonesia. Sekolah ini menyediakan berbagai program keahlian atau jurusan, seperti Teknik Komputer dan Jaringan (TKJ), Otomatisasi Komputer dan Perkantoran (OTKP), Multimedia, dan Teknik Kendaraan Ringan (TKR).
+SMK Ilhami Kemiri Tangerang berdiri sejak tahun 2003 merupakan salah satu sekolah menengah kejuruan (SMK) yang berada di wilayah Tangerang, Provinsi Banten, Indonesia. Sekolah ini menyediakan berbagai program keahlian atau jurusan, seperti Teknik Komputer dan Jaringan (TKJ), Otomatisasi Komputer dan Perkantoran (OTKP), dan Teknik Bisnis Sepeda Motor (TBSM.) 
 
 Selain itu, SMK Ilhami Kemiri Tangerang juga menawarkan berbagai fasilitas dan kegiatan ekstrakurikuler yang mendukung pengembangan potensi siswa, seperti laboratorium komputer, laboratorium bahasa, laboratorium multimedia, dan kegiatan olahraga.
+
+## **Visi**
+
+Terwujudnya Lembaga Pendidikan dan Pelatihan yang melahirkan manusia yang mampu mengembangkan diri pada kehidupan global selaras dengan peningkatan kualitas lingkungan dan berakhlak mulia
+
+## **Misi**
+
+1. Melaksanakan pembelajaran berstandar industri nasional dan meningkatkan sumber daya yang handal
+2. Meningkatkan ekstrakulikuler dalam rangka pengembangan diri
+3. Meningkatkan kegiatan keagamaan
+4. Menciptakan lingkungan sekolah yang asri, indah, nyaman, aman serta membiasakan siswa untuk hidup sehat
+5. Membiasakan siswa untuk mengelola sampah dan meningkatkan kegiatan kewirausahaan
+6. Menciptakan suasana kerja yang nyaman, serasi dan harmonis yang didukung oleh rasa kekeluargaan.
 
 ![Gedung dan Siswa SMK Ilhami](/img/ilhami-gedung-siswa.jpg "Gedung Sekolah, Lapangan dan Siswa SMK Ilhami")
 
@@ -34,3 +47,5 @@ Program keahlian (OTKP) atau Administrasi Perkantoran atau Manajemen Bisnis bert
 Selain itu, program keahlian Administrasi Perkantoran atau Manajemen Bisnis juga memberikan pelatihan untuk menggunakan sistem otomatisasi kantor dan teknologi terkait lainnya, seperti software ERP (Enterprise Resource Planning), software HRIS (Human Resource Information System), dan aplikasi manajemen proyek.
 
 Setelah lulus dari program keahlian Administrasi Perkantoran atau Manajemen Bisnis, siswa dapat bekerja di berbagai jenis organisasi dan perusahaan, seperti kantor pemerintah, perusahaan swasta, bank, rumah sakit, dan sebagainya. Beberapa posisi pekerjaan yang mungkin diisi antara lain administrator kantor, asisten manajer, staf administrasi, koordinator proyek, atau staf sumber daya manusia.
+
+Untuk mencapai tujuan dan visi - misi SMK ILHAMI KEMIRI, perlu adanya sinergitas antara kepala sekolah, guru, siswa dan masyarakat. Untuk itu diterapkan Layanan Prima bagi siswa, guru, karyawan dan masyarakat dengan layanan informasi komputerisasi dan digitalisasi untuk memudahkan akses informasi yg lebih mudah dan cepat.
