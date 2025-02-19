@@ -54,8 +54,8 @@ const Navbar = ({ className }) => {
         <div className="flex items-center justify-between py-2">
           <Link className="flex items-center gap-1" to="/">
             <StaticImage
-              src="../img/logo-ilhami.png"
-              alt="SMK Ilhami Logo"
+              src="../img/logo.png"
+              alt="SMK Daarussaadah Logo"
               className="w-8 h-8 sm:w-10 sm:h-10"
               layout="constrained"
               width={45}
@@ -66,7 +66,7 @@ const Navbar = ({ className }) => {
             />
             <div className="text-xl font-bold tracking-wide lg:text-2xl">
               <span className="text-gray-800 font-semibold">SMK</span>
-              <span className="text-green-700">Ilhami</span>
+              <span className="text-green-700">Daarussaadah</span>
             </div>
           </Link>
 

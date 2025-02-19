@@ -11,8 +11,8 @@ const Footer = () => {
             <div className="px-4 sm:px-6 lg:px-8">
               <Link className="flex items-center gap-1" to="/">
                 <StaticImage
-                  src="../img/logo-ilhami.png"
-                  alt="Logo Ilhami"
+                  src="../img/logo.png"
+                  alt="Logo SMK Daarussaadah"
                   layout="fixed"
                   width={40}
                   height={40}
@@ -26,7 +26,7 @@ const Footer = () => {
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Konsep belajar SMK Ilhami Kemiri Praktis dan Berpesantren
+                Konsep belajar SMK Daarussaadah Praktis dan Berpesantren
                 Menjadikan Siswa/i cepat memahami dalam setiap pembelajaran Ilmu, Teknologi dan Islam.
               </p>
             </div>
@@ -131,7 +131,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © SMK Ilhami Kemiri 2023 - All rights reserved
+            © SMK Daarussaadah 2025 - All rights reserved
           </p>
         </div>
       </div>
