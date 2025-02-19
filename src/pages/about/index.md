@@ -11,7 +11,7 @@ team:
     title: SMK Ilhami Kemiri Tangerang
     image: /img/ilhami-workshop.jpg
 ---
-### **SMK Ilhami Kemiri Bisa Mandiri**
+### **SMK Daarussaadah Berpesantren**
 
 SMK Ilhami Kemiri Tangerang berdiri sejak tahun 2003 merupakan salah satu sekolah menengah kejuruan (SMK) yang berada di wilayah Tangerang, Provinsi Banten, Indonesia. Sekolah ini menyediakan berbagai program keahlian atau jurusan, seperti Teknik Komputer dan Jaringan (TKJ), Otomatisasi Komputer dan Perkantoran (OTKP), dan Teknik Bisnis Sepeda Motor (TBSM.) 
 
