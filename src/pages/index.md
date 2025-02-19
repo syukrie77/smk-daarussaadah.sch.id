@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Official Website SMK Daarussaadah
-image: /img/ilhami-lapangan.jpg
+image: /img/tasakuran.jpg
 heading: SMK Daarussaadah Tangerang
 subheading: Berprestasi, Mandiri dan Berpesantren
 about:
@@ -10,8 +10,8 @@ about:
     berkomitmen mengambil tanggung jawab dalam mencetak SDM yang mumpuni dapat
     bersaing di dunia industri dan bisnis.
   image:
-    image: /img/ilhami-berbaris.jpg
-    alt: Para siswa/i SMK Daarussaadah berbaris
+    image: /img/penyerahan-piagam.jpg
+    alt: Para siswa SMK Daarussaadah kegiatan kelas industri
   button:
     url: /about
     label: Mengetahui lebih lanjut

@@ -21,7 +21,7 @@ const Footer = () => {
                 />
                 <div className="text-xl font-bold tracking-wide">
                   <span className="text-gray-800 font-semibold">SMK</span>
-                  <span className="text-green-700">Ilhami</span>
+                  <span className="text-green-700">Daarussaadah</span>
                 </div>
               </Link>
 
@@ -103,7 +103,7 @@ const Footer = () => {
                   Areta Informatics College
                 </a>
                 <a
-                  href="https://facebook.com/smk-ilhami-kemiri"
+                  href="https://facebook.com/smk-daarussaadah"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
@@ -120,7 +120,7 @@ const Footer = () => {
                   +62 85300000
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  info@smkilhami.sch.id
+                  info@smk-daarussaadah.sch.id
                 </span>
               </div>
             </div>

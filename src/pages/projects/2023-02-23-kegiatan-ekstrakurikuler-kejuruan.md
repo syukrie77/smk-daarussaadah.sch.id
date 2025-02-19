@@ -1,12 +1,12 @@
 ---
 templateKey: project-page
 title: Kegiatan Ekstrakurikuler Kejuruan
-date: 2023-02-23T14:51:04.651Z
+date: 2024-02-23T14:51:04.651Z
 featured: true
 featuredimage:
-  image: /img/kegiatan-ekstrakurikuler-ilhami.jpg
+  image: /img/kelas-industri.jpg
   alt: Kegiatan Ekstrakurikuler Kejuruan
-location: Kemiri, Tangerang
+location: Pasar Kemis, Tangerang
 ---
 Photo by [Tim Infokom](https://www.facebook.com/photo/?fbid=136918871026518&set=pcb.136919954359743)
 
