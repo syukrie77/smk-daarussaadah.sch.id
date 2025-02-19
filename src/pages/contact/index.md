@@ -7,7 +7,7 @@ contactform:
   heading: Kami siap membantu Anda
   description: " Kirimkan pesan melalui formulir di bawah ini, atau kirimkan email
     kepada kami."
-  image: /img/ilhami-lapangan.jpg
+  image: /img/perpustakaan.jpg
 office:
   tagline: Lapangan SMK ILHAMI
   location: Kemiri Tangerang
