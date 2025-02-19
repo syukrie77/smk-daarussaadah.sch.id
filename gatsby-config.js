@@ -1,12 +1,12 @@
 const siteUrl =
-  process.env.URL || `https://imaginative-paletas-c84ebf.netlify.app/`
+  process.env.URL || `https://smk-daarussaadah.sch.id/`
 
 module.exports = {
   siteMetadata: {
-    title: "SMK Ilhami",
+    title: "SMK Daarus Saadah",
     description:
-      "Official Website SMK Ilhami Kemiri Tangerang",
-    siteUrl: "https://imaginative-paletas-c84ebf.netlify.app/",
+      "Official Website SMK Daarussaadah Kota Tangerang",
+    siteUrl: "https://smk-daarussaadah.sch.id/",
   },
   plugins: [
     {
@@ -72,13 +72,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `SMKIlhami`,
-        short_name: `SMKIlhami`,
+        name: `SMKDaarussaadah`,
+        short_name: `SMKDaarussaadah`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#047857`,
         display: `standalone`,
-        icon: `src/img/logo-ilhami.png`,
+        icon: `src/img/logo.png`,
       },
     },
     "gatsby-transformer-remark-frontmatter",

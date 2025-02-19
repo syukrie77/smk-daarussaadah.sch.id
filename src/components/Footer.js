@@ -42,7 +42,7 @@ const Footer = () => {
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  SMK Ilhami
+                  SMK Daarussaadah
                 </Link>
                 <Link
                   to="/"
