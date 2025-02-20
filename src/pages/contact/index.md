@@ -17,7 +17,7 @@ office:
     Kemiri\
     Tangerang
   phone: |-
-    Email: info@smkilhami.sch.id
+    Email: info@smk-daarussaadah.sch.id
 
     Phone: 0853000000
 

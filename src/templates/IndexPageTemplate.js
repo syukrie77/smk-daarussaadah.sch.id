@@ -56,7 +56,7 @@ const IndexPageTemplate = ({
       {/* Featured projects */}
       <Container>
         <div className="flex justify-between items-baseline">
-          <SectionHeading>Semua Kegiatan SMK Ilhami Kemiri Tangerang</SectionHeading>
+          <SectionHeading>Semua Kegiatan SMK Daarussaadah Tangerang</SectionHeading>
           <Link className="text-green-700 underline hover:text-green-800" to="/projects">
             Tampilkan Semua
           </Link>
