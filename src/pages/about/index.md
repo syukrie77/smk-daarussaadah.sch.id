@@ -13,26 +13,17 @@ team:
 ---
 ### **SMK Daarussaadah Berpesantren**
 
-SMK Ilhami Kemiri Tangerang berdiri sejak tahun 2003 merupakan salah satu sekolah menengah kejuruan (SMK) yang berada di wilayah Tangerang, Provinsi Banten, Indonesia. Sekolah ini menyediakan berbagai program keahlian atau jurusan, seperti Teknik Komputer dan Jaringan (TKJ), Otomatisasi Komputer dan Perkantoran (OTKP), dan Teknik Bisnis Sepeda Motor (TBSM.) 
-
-Selain itu, SMK Ilhami Kemiri Tangerang juga menawarkan berbagai fasilitas dan kegiatan ekstrakurikuler yang mendukung pengembangan potensi siswa, seperti laboratorium komputer, laboratorium bahasa, laboratorium multimedia, dan kegiatan olahraga.
+i﻿si tentang SMK Daarussaadah, mulai dari berdirinya, kegiatannya motivasinya dll.
 
 ## **Visi**
 
-Terwujudnya Lembaga Pendidikan dan Pelatihan yang melahirkan manusia yang mampu mengembangkan diri pada kehidupan global selaras dengan peningkatan kualitas lingkungan dan berakhlak mulia
+Isi dengan visi dari SMK Daarussaadah
 
 ## **Misi**
 
-1. Melaksanakan pembelajaran berstandar industri nasional dan meningkatkan sumber daya yang handal
-2. Meningkatkan ekstrakulikuler dalam rangka pengembangan diri
-3. Meningkatkan kegiatan keagamaan
-4. Menciptakan lingkungan sekolah yang asri, indah, nyaman, aman serta membiasakan siswa untuk hidup sehat
-5. Membiasakan siswa untuk mengelola sampah dan meningkatkan kegiatan kewirausahaan
-6. Menciptakan suasana kerja yang nyaman, serasi dan harmonis yang didukung oleh rasa kekeluargaan.
+1. i﻿si dengan misi-misi
 
-Untuk mencapai tujuan dan visi - misi SMK ILHAMI KEMIRI, perlu adanya sinergitas antara kepala sekolah, guru, siswa dan masyarakat. Untuk itu diterapkan Layanan Prima bagi siswa, guru, karyawan dan masyarakat dengan layanan informasi komputerisasi dan digitalisasi untuk memudahkan akses informasi yg lebih mudah dan cepat.
-
-![Gedung dan Siswa SMK Ilhami](/img/ilhami-gedung-siswa.jpg "Gedung Sekolah, Lapangan dan Siswa SMK Ilhami")
+![Gedung dan Siswa SMK Ilhami](/img/img_2242.jpg "Gedung Sekolah, Lapangan dan Siswa SMK Ilhami")
 
 ### Jurusun Teknik Komputer Jaringan (TKJ)
 
