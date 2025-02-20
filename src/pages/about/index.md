@@ -23,7 +23,7 @@ Isi dengan visi dari SMK Daarussaadah
 
 1. i﻿si dengan misi-misi
 
-![Gedung dan Siswa SMK Ilhami](/img/img_2242.jpg "Gedung Sekolah, Lapangan dan Siswa SMK Ilhami")
+![Tasakuran SMK Daarussaadah](/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
 
 ### Jurusun Teknik Komputer Jaringan (TKJ)
 
