@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
 title: Tentang Kami
-heading: Tentang SMK Ilhami Kemiri Tangerang
-subheading: Visi Misi, Tim Guru, dan Program atau Jurusan
+heading: Tentang SMK Daarussaadah Kota Tangerang
+subheading: Visi Misi, Prestasi, Kegiatan dan Jurusan
 team:
   - name: Prestasi Siswa
     image: /img/img_2393.jpg
