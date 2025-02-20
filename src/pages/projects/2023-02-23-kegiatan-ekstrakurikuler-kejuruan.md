@@ -8,10 +8,6 @@ featuredimage:
   alt: Kegiatan Ekstrakurikuler Kejuruan
 location: Pasar Kemis, Tangerang
 ---
-Photo by [Tim Infokom](https://www.facebook.com/photo/?fbid=136918871026518&set=pcb.136919954359743)
-
-
-
 SMK (Sekolah Menengah Kejuruan) biasanya menawarkan berbagai kegiatan ekstrakurikuler untuk membantu siswa mengembangkan bakat dan minat mereka di luar jam pelajaran. Beberapa kegiatan ekstrakurikuler yang umum ditawarkan oleh SMK antara lain:
 
 1. Kelompok Ilmiah Remaja (KIR) Kegiatan ekstrakurikuler ini bertujuan untuk memperkenalkan siswa pada metode penelitian dan eksperimen ilmiah. Siswa akan berpartisipasi dalam kegiatan penelitian, diskusi, dan presentasi, dan belajar untuk mengembangkan keterampilan penelitian dan analisis yang diperlukan untuk mengejar karir di bidang ilmu pengetahuan dan teknologi.
