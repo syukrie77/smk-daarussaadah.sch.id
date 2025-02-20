@@ -3,7 +3,7 @@ templateKey: index-page
 title: Official Website SMK Daarussaadah
 image: /img/tasakuran.jpg
 heading: SMK Daarussaadah Tangerang
-subheading: Berprestasi, Mandiri dan Berpesantren
+subheading: Berkarakter, Berprestasi dan Berpesantren
 about:
   heading: Siapa Kami
   description: Kami adalah lembaga pendidikan vokasi SMK Daarussaadah yang
@@ -15,3 +15,4 @@ about:
   button:
     url: /about
     label: Mengetahui lebih lanjut
+---
