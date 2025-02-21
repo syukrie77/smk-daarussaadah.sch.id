@@ -8,4 +8,4 @@ featuredimage:
   alt: Sukses Melaksanakan UKK 2025
 location: SMK Daarussaadah, Jl. Siliwangi KM 3 Alamjaya Jatiuwung Kota Tangerang
 ---
-KegiatantUK
+KegiatantU
