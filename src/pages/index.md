@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Official Website SMK Daarussaadah
+title: Official Website SMK Daarussa'adah
 image: /img/tasakuran.jpg
 heading: SMK Daarussa'adah Tangerang
 subheading: Berkarakter, Berprestasi dan Berpesantren
